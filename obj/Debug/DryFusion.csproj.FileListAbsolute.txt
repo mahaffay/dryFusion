@@ -1,0 +1,10 @@
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\bin\Debug\DryFusion.exe.config
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\bin\Debug\DryFusion.exe
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\bin\Debug\DryFusion.pdb
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.csproj.AssemblyReference.cache
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.Form1.resources
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.Properties.Resources.resources
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.csproj.GenerateResource.cache
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.csproj.CoreCompileInputs.cache
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.exe
+C:\Users\Justin.Mahaffay\source\repos\DryFusion\DryFusion\obj\Debug\DryFusion.pdb
